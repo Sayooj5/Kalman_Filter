@@ -1,7 +1,7 @@
 # Multisensorial Systems – Kalman Filter Lab (Python)
 
 Python lab project on multi-sensor data fusion and Kalman Filter variants for autonomous vehicle trajectory estimation.
----
+
 
 ## What it does
 
